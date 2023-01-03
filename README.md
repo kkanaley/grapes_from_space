@@ -8,5 +8,5 @@ Data files and code for the grapes_from_space project.
 
 ## Code (jupyter notebooks)
 - Extract per-panel reflectance data from Planet imagery 
-- Link relfectance data to scout data
+- Link reflectance data to scout data
 - Plot disease severity vs. reflectance/derived vegetation indices
