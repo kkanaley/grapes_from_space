@@ -1,0 +1,5 @@
+## Ignore all .tif files and all data / figure files (too large) 
+
+*.tif
+/data/*
+/figs/*
